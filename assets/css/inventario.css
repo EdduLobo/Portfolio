@@ -1,0 +1,26 @@
+
+
+.third-content {
+    display: flex;
+    position: absolute;
+    width: 100%;
+    margin-top: 60%;
+    
+}
+
+.content-image-third {
+   display: flex; 
+   position: absolute;
+   width: 100%;
+   z-index: 1;
+   
+    
+    
+    
+}
+
+.content-center-third {
+
+    z-index: 3;
+    
+}
